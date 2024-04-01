@@ -14,8 +14,8 @@ Welcome to my GitHub profile! I'm a passionate app developer with a keen interes
 Here are some highlights of my projects:
 
 - [Expensio_V2 (In-progress)](link): Expensio is a personal finanaces management and tracker app that provides uders with graphical representation of their spending habits.
-- [Wallpaper App](https://github.com/LavenderBridge/wallpaperApp): Utilizes Unsplash API to fetch and view wallpapers from the internet. Template app for learning API integrations in Flutter
 - [Jellybean LMS](https://github.com/Team-Jellybean/Jellybean-Student-Tracker): An open source LMS built for tracking progress of students for various academic activities
+- [Wallpaper App](https://github.com/LavenderBridge/wallpaperApp): Utilizes Unsplash API to fetch and view wallpapers from the internet. Template app for learning API integrations in Flutter
 
 ## Skills
 
@@ -26,7 +26,7 @@ Here are some highlights of my projects:
 ## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/kunal-khulbe-4376b8221/)
-- [Portfolio: Coming soon](your portfolio website URL)
+- [Website](https://lavenderbridge.github.io/)
 
 ## GitHub Stats
 
