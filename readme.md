@@ -13,9 +13,9 @@ Welcome to my GitHub profile! I'm a passionate app developer with a keen interes
 
 Here are some highlights of my projects:
 
-- [Project 1](link): Brief description of project 1.
-- [Project 2](link): Brief description of project 2.
-- [Project 3](link): Brief description of project 3.
+- [Expensio_V2 (In-progress)](link): Expensio is a personal finanaces management and tracker app that provides uders with graphical representation of their spending habits.
+- [Wallpaper App](https://github.com/LavenderBridge/wallpaperApp): Utilizes Unsplash API to fetch and view wallpapers from the internet. Template app for learning API integrations in Flutter
+- [Jellybean LMS](https://github.com/Team-Jellybean/Jellybean-Student-Tracker): An open source LMS built for tracking progress of students for various academic activities
 
 ## Skills
 
